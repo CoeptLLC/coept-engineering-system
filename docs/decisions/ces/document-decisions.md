@@ -34,7 +34,7 @@ Chosen option: **Architecture Decision Records**, because:
 ## Guidance
 
 - Team members MUST document **all** agreed-upon system decisions using architecture decision records (ADRs).
-- ADRs belong in the `/docs/decisions` folder. Specifically, the `/docs/decisions/ces` folder MUST be used only by the underlying engineering system, to prevent merge conflicts if a system chooses to forward-integrate engineering system updates into the system. Likewise, the `/docs/decisions/system` folder SHOULD be used to contain all ADRs specific to a particular system that is built on the engineering system.
+- ADRs belong in the `docs/decisions` folder. Specifically, the `docs/decisions/ces` folder MUST be used only by the underlying engineering system, to prevent merge conflicts if a system chooses to forward-integrate engineering system updates into the system. Likewise, the `docs/decisions/system` folder SHOULD be used to contain all ADRs specific to a particular system that is built on the engineering system.
 - Each architecture decision record MUST include the following sections at a minimum:
   - Metadata, as demonstrated in this ADR file, MUST include:
     - `status`: `Pending`, `Decided`, `Superseded`, etc.
