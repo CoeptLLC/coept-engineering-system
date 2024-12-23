@@ -1,6 +1,16 @@
+Proprietary (unless modified)
+
+Copyright (c) 2024 ___________
+
+Coept LLC developed the repository template for the "Coept Engineering System"
+on which derived/forked repositories are based. That repository template is
+licensed under the MIT License as follows, but the MIT licensing is explicitly
+*not* inherited by any projects or repositories using the Coept Engineering
+System.
+
 MIT License
 
-Copyright (c) 2024 CoeptLLC
+Copyright (c) 2024 Coept LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
