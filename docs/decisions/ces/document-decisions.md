@@ -1,7 +1,7 @@
 ---
 status: Decided
 date: 2024-12-23
-decision-makers: @LarsKemmann
+decision-makers: "@LarsKemmann"
 discussion: https://github.com/CoeptLLC/coept-engineering-system/discussions/1
 ---
 
